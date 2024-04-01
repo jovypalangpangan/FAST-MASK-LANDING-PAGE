@@ -1,0 +1,750 @@
+.custom-paragraph{
+    position: absolute;
+    left: 40%;
+    top: 5;
+    font-family:Times New Roman;
+    font-size: 125%;
+    margin: 0;
+}
+.custom-paragraph1{
+    position: absolute;
+    left: 42%;
+    top: 8%;
+    font-family:Times New Roman;
+    font-size: 18%;
+    margin: 0;
+}
+.custom-paragraph2{
+    position: absolute;
+    left: 50%; /* Move the left edge of the image to the center of its containing element */
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.custom-paragraph3{
+    position: absolute;
+    left: 25%;
+    top: 12%;
+    color: white;
+    font-family: Calibri;
+    font-size: 500%;
+    line-height: 100%; 
+    letter-spacing: 1px;
+}
+.custom-paragraph4{
+    position: absolute;
+    left: 34%;
+    top: 48%;
+    color: white;
+    font-family:'Trebuchet MS', sans-serif ;
+    font-size: 90%;
+}
+.text {
+    position: absolute;
+    left: 37%;
+    top: 51%;
+    color: white;
+    font-family:'Trebuchet MS', sans-serif ;
+    font-size: 90%;
+}
+.transparent-box {
+    position: absolute;
+    width: 150px; /* Adjust the width as needed */
+    height: 33px; /* Adjust the height as needed */
+    border: 2px solid red; /* Red border */
+    background-color: transparent; /* Transparent background */
+    left: 40%;
+    top: 69%;
+}
+.custom-paragraph5{
+    position: absolute;
+    left: 43%;
+    top: 68%;
+    color: white;
+    font-family: Arial;
+    font-size: 90%;
+    margin: 0;
+}
+.custom-paragraph6{
+    position: absolute;
+    left: 50%;
+    top: 95%;
+    width: 1287px;
+    height: 65px;
+    background-color: red;
+    transform: translate(-50%, -50%);
+}
+.custom-paragraph7{
+    position: absolute;
+    left: 27%;
+    top: 88%;
+    color: white;
+    font-family: Arial;
+    font-size: 190%;
+    margin: 0;
+}
+.custom-paragraph8{
+    position: absolute;
+    left: 19%;
+    top: 102%;
+    margin: auto;
+}
+.custom-paragraph9{
+    position: absolute;
+    left: 20%;
+    top: 132%;
+    color: #000000;
+    font-family: Calibri;
+    font-size: small;
+    margin: 0%;
+}
+.custom-paragraph10{
+    position: absolute;
+    left: 20%;
+    top: 137%;
+    font-size: smaller;
+    color: grey;
+    font-family:  'Trebuchet MS';
+    margin: auto;
+}
+.custom-paragraph11{
+    position: absolute;
+    left: 20%;
+    top: 142%;  
+    width: 100px; 
+    height: 25px;
+    background-color:black
+}
+.custom-paragraph12{
+    position:absolute ;
+    left: 21%;
+    top: 141%;
+    font-size: 70%;
+    color: grey;
+    font-family: Calibri;
+    margin:auto;
+}
+.custom-paragraph13{
+    position: absolute;
+    left: 31%;
+    top: 102%;
+    margin: auto;
+}
+.custom-paragraph14{
+    position: absolute;
+    left: 32%;
+    top: 132%;
+    color: #000000;
+    font-family: Calibri;
+    font-size: small;
+    margin: 0%;
+}
+.custom-paragraph15{
+    position: absolute;
+    left: 32%;
+    top: 137%;
+    font-size: smaller;
+    color: grey;
+    font-family:  'Trebuchet MS';
+    margin: auto;
+}
+.custom-paragraph16{
+    position: absolute;
+    left: 32%;
+    top: 142%;  
+    width: 100px; 
+    height: 25px;
+    background-color:black
+}
+.custom-paragraph17{
+    position:absolute ;
+    left: 33%;
+    top: 141%;
+    font-size: 70%;
+    color: grey;
+    font-family: Calibri;
+    margin:auto;
+}
+.custom-paragraph18{
+    position: absolute;
+    left: 43%;
+    top: 102%;
+    margin: auto;
+}
+.custom-paragraph19{
+    position: absolute;
+    left: 44%;
+    top: 132%;
+    color: #000000;
+    font-family: Calibri;
+    font-size: small;
+    margin: 0%;
+}
+.custom-paragraph20{
+    position: absolute;
+    left: 44%;
+    top: 137%;
+    font-size: smaller;
+    color: grey;
+    font-family:  'Trebuchet MS';
+    margin: auto;
+}
+.custom-paragraph21{
+    position: absolute;
+    left: 44%;
+    top: 142%;  
+    width: 100px; 
+    height: 25px;
+    background-color:black
+}
+.custom-paragraph22{
+    position:absolute ;
+    left: 45%;
+    top: 141%;
+    font-size: 70%;
+    color: grey;
+    font-family: Calibri;
+    margin:auto;
+}
+.custom-paragraph23{
+    position: absolute;
+    left: 55%;
+    top: 102%;
+    margin: auto;
+}
+.custom-paragraph24{
+    position: absolute;
+    left: 56%;
+    top: 132%;
+    color: #000000;
+    font-family: Calibri;
+    font-size: small;
+    margin: 0%;
+}
+.custom-paragraph25{
+    position: absolute;
+    left: 56%;
+    top: 137%;
+    font-size: smaller;
+    color: grey;
+    font-family:  'Trebuchet MS';
+    margin: auto;
+}
+.custom-paragraph26{
+    position: absolute;
+    left: 56%;
+    top: 142%;  
+    width: 100px; 
+    height: 25px;
+    background-color:black
+}
+.custom-paragraph27{
+    position:absolute ;
+    left: 57%;
+    top: 141%;
+    font-size: 70%;
+    color: grey;
+    font-family: Calibri;
+    margin:auto;
+}
+.custom-paragraph28{
+    position: absolute;
+    left: 67%;
+    top: 102%;
+    margin: auto;
+}
+.custom-paragraph29{
+    position: absolute;
+    left: 68%;
+    top: 132%;
+    color: #000000;
+    font-family: Calibri;
+    font-size: small;
+    margin: 0%;
+}
+.custom-paragraph30{
+    position: absolute;
+    left: 68%;
+    top: 137%;
+    font-size: smaller;
+    color: grey;
+    font-family:  'Trebuchet MS';
+    margin: auto;
+}
+.custom-paragraph31{
+    position: absolute;
+    left: 68%;
+    top: 142%;  
+    width: 100px; 
+    height: 25px;
+    background-color:black
+}
+.custom-paragraph32{
+    position:absolute ;
+    left: 69%;
+    top: 141%;
+    font-size: 70%;
+    color: grey;
+    font-family: Calibri;
+    margin:auto;
+}
+.transparent-box1 {
+    position: absolute;
+    width: 270px; 
+    height: 30px; 
+    border: 2px solid red; 
+    background-color: transparent;
+    left: 38%;
+    top: 160%;
+}
+.custom-paragraph33{
+    position: absolute;
+    left: 40%;
+    top: 159%;
+    color:black;
+    font-family: Arial;
+    font-size: 100;
+    margin: 0;
+}
+.custom-paragraph34{
+    position: absolute;
+    left: 25%;
+    top: 170%;
+    color:black;
+    font-family: Calibri;
+    font-size: 200%;
+    margin: 0;
+}
+.custom-paragraph35{
+    position: absolute;
+    left: 45%;
+    top: 190%;
+    color:black;
+    font-family: Calibri;
+    font-size: 80%;
+    margin: 0;
+}
+.custom-paragraph36{
+    position: absolute;
+    left:25%;
+    top: 200%;
+    margin: auto;
+}
+.custom-paragraph37{
+    position: absolute;
+    left: 26%;
+    top: 208%;
+    color:black;
+    font-family: Calibri;
+    font-size: 80%;
+    margin: 0;
+}
+.custom-paragraph38{
+    position: absolute;
+    left: 33%;
+    top: 208%;
+    color:black;
+    font-family: Calibri;
+    font-size: 80%;
+    margin: 0;
+}
+.custom-paragraph39{
+    position: absolute;
+    left: 39.5%;
+    top: 208%;
+    color:black;
+    font-family: Calibri;
+    font-size: 80%;
+    margin: 0;
+}
+.custom-paragraph40{
+    position: absolute;
+    left: 46.5%;
+    top: 208%;
+    color:black;
+    font-family: Calibri;
+    font-size: 80%;
+    margin: 0;
+}  
+.custom-paragraph41{
+    position: absolute;
+    left: 54.5%;
+    top: 208%;
+    color:black;
+    font-family: Calibri;
+    font-size: 80%;
+    margin: 0;
+}  
+.custom-paragraph42{
+    position: absolute;
+    left: 61%;
+    top: 208%;
+    color:black;
+    font-family: Calibri;
+    font-size: 80%;
+    margin: 0;
+}  
+.custom-paragraph43{
+    position: absolute;
+    left: 69%;
+    top: 208%;
+    color:black;
+    font-family: Calibri;
+    font-size: 80%;
+    margin: 0;
+}  
+.custom-paragraph44{
+    position: absolute;
+    left: 35%;
+    top: 216%;
+    color:black;
+    font-family: Calibre;
+    font-size: 100%;
+    margin: 0;
+} 
+.custom-paragraph46 {
+    position: absolute;
+    left: 44%;
+    top: 226%;
+    color: white;
+    font-family: Calibri;
+    font-size: 130%;
+    cursor: pointer; 
+    padding: 10px 20px; 
+    background-color: #ff0000;
+    border: none;
+    border-radius: 5px;
+    text-align: center; 
+}
+
+.custom-paragraph46 p {
+    margin: 0;
+}
+
+.custom-paragraph46:hover {
+    background-color: #000000; 
+}
+
+
+
+.custom-paragraph47{
+    position: absolute;
+    left:50%;
+    top: 265%;  
+    width: 1287px; 
+    height: 310px;
+    background-color:rgb(0, 0, 0);
+    transform: translate(-50%, -50%);
+}
+.custom-paragraph48{
+    position: absolute;
+    left: 10%;
+    top: 235%;
+    color:white;
+    font-family: Calibri;
+    font-size: 250%;
+    line-height: 160%; 
+    letter-spacing: 1px;
+}  
+.custom-paragraph49{
+    position: absolute;
+    left: 55%;
+    top: 243%;
+    color:white;
+    font-family: 'Trebuchet MS', sans-serif;
+    margin: 0;
+    
+}
+.custom-paragraph50{
+    position: absolute;
+    left: 55%;
+    top: 245%;
+    color:rgb(214, 5, 5);
+    margin: 0;
+}
+.custom-paragraph51{
+    position: absolute;
+    left: 55%;
+    top: 250%;
+    color:white;
+    font-family: 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+.custom-paragraph52{
+    position: absolute;
+    left: 55%;
+    top: 255%;
+    color:rgb(214, 5, 5);
+    margin: 0;
+}
+.custom-paragraph53{
+    position: absolute;
+    left: 55%;
+    top: 260%;
+    color:white;
+    font-family: Calibri;
+    margin: 0;
+}
+.custom-paragraph54{
+    position: absolute;
+    left: 55%;
+    top: 265%;
+    color:rgb(214, 5, 5);
+    margin: 0;
+}
+.custom-paragraph55{
+    position: absolute;
+    left: 55%;
+    top: 269%;
+    color:white;
+    font-family: Calibri;
+    margin: 0;
+}
+.custom-paragraph56{
+    position: absolute;
+    left: 55%;
+    top: 271%;
+    color:rgb(214, 5, 5);
+    margin: 0;
+}
+.custom-paragraph57{
+    position: absolute;
+    left: 55%;
+    top: 275%;
+    color:white;
+    font-family: Calibri;
+    margin: 0;
+}
+.custom-paragraph58{
+    position: absolute;
+    left: 55%;
+    top: 277%;
+    color:rgb(214, 5, 5);
+    margin: 0;
+}
+.custom-paragraph59{
+    position: absolute;
+    left: 10%;
+    top:284%;
+    font-family: Calibri;
+    font-size:252%;
+    line-height: 170%; 
+    letter-spacing: 1px;
+}
+.transparent-box2 {
+    position: absolute;
+    width: 150px; 
+    height: 100px; 
+    border: 2px solid red; 
+    background-color: transparent;
+    left: 10%;
+    top: 325%;
+}
+.custom-paragraph60{
+    position: absolute;
+    left: 12%;
+    top:325%;
+    font-family: Calibri;
+    font-size: 100%;
+    margin: 0;
+}
+.transparent-box3 {
+    position: absolute;
+    width: 185px; 
+    height: 100px; 
+    border: 2px solid red; 
+    background-color: transparent;
+    left:23%;
+    top: 325%;
+}
+.custom-paragraph61{
+    position: absolute;
+    left: 25%;
+    top:325%;
+    font-family: Calibri;
+    font-size:100%;
+    margin: 0;
+}
+.transparent-box4 {
+    position: absolute;
+    width: 190px; 
+    height: 100px; 
+    border: 2px solid red; 
+    background-color: transparent;
+    left:39%;
+    top: 325%;
+}
+.custom-paragraph62{
+    position: absolute;
+    left: 41%;
+    top:325%;
+    font-family: Calibri;
+    font-size: 100%;
+    margin: 0;
+}
+.transparent-box5 {
+    position: absolute;
+    width: 225px; 
+    height: 75px; 
+    border: 2px solid red; 
+    background-color: transparent;
+    left:10%;
+    top: 343%;
+}
+.custom-paragraph63{
+    position: absolute;
+    left: 12%;
+    top:343%;
+    font-family: Calibri;
+    font-size: 100%;
+    margin: 0;
+}
+.transparent-box6 {
+    position: absolute;
+    width: 225px; 
+    height: 75px; 
+    border: 2px solid red; 
+    background-color: transparent;
+    left:29%;
+    top: 343%;
+}
+.custom-paragraph64{
+    position: absolute;
+    left: 32%;
+    top:343%;
+    font-family: Calibri;
+    font-size: 100%;
+    margin: 0;
+}
+
+
+.custom-paragraph66 {
+    position: absolute;
+    left: 48%;
+    top: 343%;
+    width: 100px; 
+    height: 65px;
+    color: white;
+    font-family: Calibri;
+    font-size: 150%;
+    margin: 0;
+    cursor: pointer; /* Change cursor to pointer to indicate clickability */
+    padding: 10px 20px; /* Add padding to make it look like a button */
+    background-color: #ff0000; /* Blue color */
+    border: none;
+
+}
+
+.custom-paragraph66:hover {
+    background-color: #0c0c0c; /* Darker blue color on hover */
+}
+
+.custom-paragraph67{
+    position: absolute;
+    left: 10%;
+    top: 365%;
+    color:rgb(0, 0, 0);
+    font-family: Calibri;
+    font-size:250%;
+    line-height: 160%; 
+    letter-spacing: 1px;
+    
+}
+.custom-paragraph68{
+    position: absolute;
+    left: 42%;
+    top: 365%;
+    margin:0;
+}
+.custom-paragraph69{
+    position: absolute;
+    left: 60%;
+    top: 365%;
+    margin:0;
+}
+.custom-paragraph70{
+    position: absolute;
+    left:50%;
+    top: 438%;
+    transform: translate(-50%, -50%);
+}
+.custom-paragraph71{
+    position: absolute;
+    left: 26%;
+    top: 405%;
+    color:white;
+    font-family: Calibri;
+    font-size:xx-large;
+    margin: 0;
+}
+.custom-paragraph72{
+    position: absolute;
+    left: 30%;
+    top: 422%;
+    color:white;
+    font-family:'Trebuchet MS', sans-serif ;
+    font-size:90%;
+    margin: 0;
+}
+.custom-paragraph73{
+    position: absolute;
+    left: 28.5%;
+    top: 425%;
+    color:white;
+    font-family:'Trebuchet MS', sans-serif;
+    font-size:90%;
+    margin: 0;
+}
+.custom-paragraph74{
+    position: absolute;
+    left: 30%;
+    top: 428%;
+    color:white;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size:90%;
+    margin: 0;
+}
+.custom-paragraph75{
+    position: absolute;
+    left: 28.5%;
+    top: 435%;
+    color:white;
+    font-family:  'Trebuchet MS', sans-serif;
+    font-size:90%;
+    margin: 0;
+}
+.custom-paragraph76{
+    position: absolute;
+    left: 39%;
+    top: 437%;
+    color:white;
+    font-family:  'Trebuchet MS', sans-serif;
+    font-size:90%;
+    margin: 0;
+}
+.custom-paragraph77{
+    position: absolute;
+    left:29.5%;
+    top: 445%;
+    color:white;
+    font-family:  'Trebuchet MS', sans-serif;
+    font-size:90%;
+    margin: 0;
+}
+.custom-paragraph78{
+    position: absolute;
+    left:28.5%;
+    top: 448%;
+    color:white;
+    font-family:  'Trebuchet MS', sans-serif;
+    font-size:90%;
+    margin: 0;
+}
+.custom-paragraph79{
+    position: absolute;
+    left:33%;
+    top: 451%;
+    color:white;
+    font-family:  'Trebuchet MS', sans-serif;
+    font-size:90%;
+    margin: 0;
+}
